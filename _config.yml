@@ -9,27 +9,35 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: chicago/America
+
+
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: ahmed86-star # your name as shown on GitHub
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Cybersecurity Engineer | SOC Analyst # matches your GitHub profile
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Cybersecurity professional focusing on Cloud Security, Threat Detection, 
+  and SOC Analysis. Documenting projects, homelab experiences, and security research.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://ahmed86-star.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: ahmed86-star
 
-twitter:
-  username: twitter_username # change to your Twitter username
+# Remove or comment out Twitter
+# twitter:
+#   username: twitter_username
+
+tryhackme:
+  username: AHMED1
+  url: https://tryhackme.com/p/AHMED1
 
 social:
   # Change to your full name.
@@ -98,7 +106,9 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/avatar.jpg   # Local image option
+# OR
+avatar: https://github.com/ahmed86-star.png   # GitHub profile picture option
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -223,3 +233,12 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# The maximum posts per page
+paginate: 10
+
+# The permalink of posts
+permalink: /:year/:month/:day/:title/
+
+# Enable post excerpts
+excerpt_separator: <!--more-->
