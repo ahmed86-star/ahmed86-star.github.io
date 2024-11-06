@@ -1,3 +1,6 @@
+
+![Homelab Setup](../assets/images/Homelab.jpg)
+
 ---
 layout: post
 title: "My Homelab Setup: Proxmox, Networking, and More"
