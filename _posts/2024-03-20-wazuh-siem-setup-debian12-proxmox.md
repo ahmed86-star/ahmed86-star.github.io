@@ -1,4 +1,4 @@
-![alt text](Images/server.jpg)
+![Server Image](Images/server.jpg)
 
 # Wazuh-SIEM-Setup-Debian12-Proxmox   
 
@@ -8,7 +8,7 @@ date: 2024-11-05
 ---
 ![image](https://github.com/user-attachments/assets/d586c690-25af-434e-ac20-f7fdb5993659)
 
-![image](https://github.com/user-attachments/assets/d586c690-25af-434e-ac20-f7fdb5993659)
+
 
 
 ## **Setting up the virtual machine on proxmox**
