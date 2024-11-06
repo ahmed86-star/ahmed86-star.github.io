@@ -1,4 +1,4 @@
-![![alt text](Images/server.jpg)
+![alt text](Images/server.jpg)
 
 # Wazuh-SIEM-Setup-Debian12-Proxmox   
 
