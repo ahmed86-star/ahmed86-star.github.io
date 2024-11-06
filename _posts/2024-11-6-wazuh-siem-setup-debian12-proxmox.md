@@ -10,7 +10,6 @@ tags: [wazuh, siem, debian, proxmox]
 date: 2024-11-05
 ---
 
-![Server Image](Images/server.jpg)
 
 # Wazuh-SIEM-Setup-Debian12-Proxmox   
 
