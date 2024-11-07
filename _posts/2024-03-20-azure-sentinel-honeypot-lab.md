@@ -6,7 +6,7 @@ categories: [cloud, security]
 tags: [azure, sentinel, honeypot, siem]
 ---
 
-# Azure Sentinel Honeypot Lab
+# Azure Sentinel Honeypot Lab: Real-time Cyber Attack Analysis
 
 A lab demonstrating the setup and monitoring of a honeypot using Azure Sentinel to analyze real-world cyber attacks and security threats.
 

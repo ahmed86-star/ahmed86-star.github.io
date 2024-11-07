@@ -98,7 +98,7 @@ Feel free to connect with me if you'd like to collaborate on projects or discuss
 
 - **GitHub**: [github.com/ahmed86-star](https://github.com/ahmed86-star)
 
-- **LinkedIn**: [linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
+- **LinkedIn**: [linkedin.com/in/abdirahman-ahmed-77142623a](https://www.linkedin.com/in/abdirahman-ahmed-77142623a/)
 
 - **TryHackMe**: [AHMED1](https://tryhackme.com/p/AHMED1)
 
