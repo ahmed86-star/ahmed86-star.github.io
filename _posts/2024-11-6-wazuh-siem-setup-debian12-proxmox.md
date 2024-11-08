@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wazuh SIEM Setup on Debian 12 with Proxmox"
-date: 2024-03-20
+date: 2024-11-07
 categories: [cloud, security]
 tags: [wazuh, siem, debian, proxmox]
 ---
