@@ -1,21 +1,32 @@
----
+
+<img 
+    alt="Preview Image" 
+    width="1200" 
+    height="630" 
+    data-lqip="true" 
+    src="/assets/lib/images/proxmox-server-solutions-gmbh-logo-vector.png" 
+/>
+
+
+
 layout: post
 title: "Implementing Wazuh SIEM on Debian 12 within a Proxmox Environment"
 date: 2024-11-07
-categories: [cloud, security]
-tags: [wazuh, siem, debian, proxmox]
+categories: 
+  - cloud
+  - security
+tags: 
+  - wazuh
+  - siem
+  - debian
+  - proxmox
 ---
-
----
-date: 2024-11-05
----
+{{ edit_1 }}
 
 
 # Wazuh-SIEM-Setup-Debian12-Proxmox   
 
 
-
-![image](https://github.com/user-attachments/assets/d586c690-25af-434e-ac20-f7fdb5993659)
 
 
 
