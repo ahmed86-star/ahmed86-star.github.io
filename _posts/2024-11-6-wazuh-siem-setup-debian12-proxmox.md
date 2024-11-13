@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wazuh SIEM Setup on Debian 12 with Proxmox"
+title: "Implementing Wazuh SIEM on Debian 12 within a Proxmox Environment"
 date: 2024-11-07
 categories: [cloud, security]
 tags: [wazuh, siem, debian, proxmox]
