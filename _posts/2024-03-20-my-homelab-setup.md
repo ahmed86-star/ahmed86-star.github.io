@@ -1,13 +1,8 @@
-
-
-
 ---
-# YAML Front Matter for Jekyll
-layout: post # Specify the layout to use for this post
-title: "My Homelab Setup: Proxmox, Networking, and More" # Title of the post
-date: 2024-03-20 # Date of the post
-categories: [homelab, infrastructure] # Categories for the post
-tags: [proxmox, networking, servers, truenas] # Tags for the post
+title: "My Homelab Setup: Proxmox, Networking, and More"
+date: 2024-03-20
+categories: [homelab, infrastructure]
+tags: [proxmox, networking, servers, truenas]
 ---
 
 # My Homelab Setup
