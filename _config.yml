@@ -9,7 +9,7 @@
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: America/Ohio
+timezone: America/New_York
 
 
 
@@ -46,11 +46,10 @@ social:
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://github.com/ahmed86-star
+    - https://tryhackme.com/p/AHMED1
+    # Remove or update Twitter link if not used
+    # - https://twitter.com/username
 
 # Site Verification Settings
 webmaster_verifications:
@@ -106,9 +105,9 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/avatar.jpg   # Local image option
+avatar: https://github.com/ahmed86-star.png   # Using GitHub profile picture
 # OR
-avatar: https://github.com/ahmed86-star.png   # GitHub profile picture option
+# avatar: /assets/img/avatar.jpg   # Remove or comment out local image option
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
