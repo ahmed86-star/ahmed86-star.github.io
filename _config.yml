@@ -9,7 +9,7 @@
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: ohio/America
+timezone: America/Ohio
 
 
 
@@ -156,8 +156,6 @@ pwa:
     # shares the same domain name as the current website.
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
-
-paginate: 10
 
 # The base URL of your site
 baseurl: ""
