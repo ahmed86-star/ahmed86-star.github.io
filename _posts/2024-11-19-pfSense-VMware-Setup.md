@@ -5,6 +5,8 @@ categories: [Networking, Virtualization]
 tags: [pfSense, VMware, Setup]
 ---
 
+
+
 ![Screenshot 2024-11-19 144846](https://github.com/user-attachments/assets/aaf352fe-b7a4-4afd-9d80-d9d24dd21632)
 
 # pfSense-VMware-Setup
