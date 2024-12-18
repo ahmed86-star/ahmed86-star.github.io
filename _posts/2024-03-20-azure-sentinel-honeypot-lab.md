@@ -4,7 +4,7 @@ title: "Azure Sentinel Honeypot Lab: Real-time Cyber Attack Analysis"
 date: 2024-03-20
 categories: [cloud, security]
 tags: [azure, sentinel, honeypot, siem]
-image: /home/ahmed1/ahmed86-star.github.io/ahmed86-star.github.io/_site/assets/img/favicons/cyber.jpg
+image: /_posts/Images/cyber.jpg
 ---
 
 # Azure-Sentinel-Honeypot
