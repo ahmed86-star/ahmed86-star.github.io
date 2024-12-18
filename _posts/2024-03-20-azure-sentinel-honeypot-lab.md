@@ -4,7 +4,7 @@ title: "Azure Sentinel Honeypot Lab: Real-time Cyber Attack Analysis"
 date: 2024-03-20
 categories: [cloud, security]
 tags: [azure, sentinel, honeypot, siem]
-image: /assets/img/posts/cyber.jpg
+image: /home/ahmed1/ahmed86-star.github.io/ahmed86-star.github.io/_site/assets/img/favicons/cyber.jpg
 ---
 
 # Azure-Sentinel-Honeypot
@@ -12,7 +12,7 @@ Setup Azure Sentinel and a honeypot to observe live RDP brute force attacks and 
 
 
 
-![image](https://github.com/ahmed86-star/Azure-Sentinel-Honeypot/assets/113064932/1564a35b-a4a4-4858-a21d-c17dac3c2864)
+![Cyber Image](/_posts/Images/cyber.jpg)
 
 
 # Azure Sentinel Honeypot
