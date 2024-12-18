@@ -4,20 +4,24 @@ title: "Azure Sentinel Honeypot Lab: Real-time Cyber Attack Analysis"
 date: 2024-03-20
 categories: [cloud, security]
 tags: [azure, sentinel, honeypot, siem]
+image: /assets/img/posts/security-lock-world.jpg
 ---
 
-# Azure Sentinel Honeypot Lab: Real-time Cyber Attack Analysis
+<div class="post-header-container">
+  <h1 align="center">Azure Sentinel Honeypot Lab</h1>
+  <p align="center">Real-time Analysis of Global Cyber Attacks</p>
+</div>
 
-A lab demonstrating the setup and monitoring of a honeypot using Azure Sentinel to analyze real-world cyber attacks and security threats.
+> Explore the fascinating world of cybersecurity through a hands-on lab that demonstrates how to monitor, analyze, and visualize real-world cyber attacks using Azure Sentinel and a honeypot system.
 
-## Environments and Technologies Used
-- Microsoft Azure (Virtual Machines/Resources)
-- Azure Sentinel
-- Log Analytics Workspace
-- PowerShell
-- Windows Remote Desktop
-- KQL (Kusto Query Language)
-- Custom PowerShell Script (Log Exporter)
+## 🛠 Environments and Technologies Used
+- **Microsoft Azure** (Virtual Machines/Resources)
+- **Azure Sentinel** (SIEM Solution)
+- **Log Analytics Workspace** (Data Collection)
+- **PowerShell** (Automation & Logging)
+- **Windows Remote Desktop** (Access)
+- **KQL** (Kusto Query Language)
+- **Custom PowerShell Script** (Log Exporter)
 
 # Azure-Sentinel-Honeypot
 Setup Azure Sentinel and a honeypot to observe live RDP brute force attacks and plot attacker geolocation
