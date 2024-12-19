@@ -1,15 +1,18 @@
 # frozen_string_literal: true
 
-source "https://rubygems.org"
+source "https://gems.ruby-china.com"
 
-gem "github-pages", group: :jekyll_plugins
-gem "jekyll-remote-theme"
-gem "webrick", "~> 1.7"
+gem "jekyll", "4.3.4"
 
+gem "jekyll-theme-chirpy", "~> 7.1", ">= 7.1.1"
+
+# Plugins required by Chirpy
 group :jekyll_plugins do
-  gem "jekyll-feed"
+  gem "jekyll-paginate"
+  gem "jekyll-archives"
+  gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
-  gem "jekyll-remote-theme"
+  gem "jekyll-feed"
 end
 
 gem "html-proofer", "~> 5.0", group: :test
