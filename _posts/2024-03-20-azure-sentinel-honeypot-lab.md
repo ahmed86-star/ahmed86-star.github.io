@@ -11,7 +11,7 @@ Setup Azure Sentinel and a honeypot to observe live RDP brute force attacks and 
 
 
 
-![Cyber Image](/_posts/Images/cyber.jpg)
+
 
 
 # Azure Sentinel Honeypot
