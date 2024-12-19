@@ -2,11 +2,29 @@
 
 source "https://rubygems.org"
 
+# Use older Jekyll version for better compatibility
 gem "jekyll", "~> 3.9.3"
-gem "github-pages", "~> 228"
-gem "jekyll-feed"
 
-gem "html-proofer", "~> 5.0", group: :test
+# Theme
+gem "jekyll-theme-chirpy", "~> 5.6.1"
+
+# Required for Jekyll 3.9
+gem "kramdown-parser-gfm"
+gem "webrick"
+
+group :jekyll_plugins do
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jekyll-feed"
+  gem "jekyll-seo-tag"
+  gem "jemoji"
+  gem "jekyll-include-cache"
+  gem "jekyll-remote-theme"
+end
+
+# Required for serving
+gem "faraday-retry"
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
@@ -14,4 +32,3 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
-
