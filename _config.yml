@@ -1,4 +1,7 @@
-# The Site Configuration
+title: Your Site Title
+baseurl: "" # leave empty if your site is at root level
+url: "https://ahmed1.live"
+domain: ahmed1.live
 
 # Build settings
 markdown: kramdown
