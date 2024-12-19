@@ -2,11 +2,11 @@
 
 source "https://rubygems.org"
 
-# Use older Jekyll version for better compatibility
-gem "jekyll", "~> 3.9.3"
+# Update Jekyll version to be compatible with Chirpy theme
+gem "jekyll", "~> 4.3.0"
 
 # Theme
-gem "jekyll-theme-chirpy", "~> 5.6.1"
+gem "jekyll-theme-chirpy", "~> 6.2.3"
 
 # Required for Jekyll 3.9
 gem "kramdown-parser-gfm"
