@@ -1,0 +1,22 @@
+{
+  "name": "ahmed86-star.github.io",
+  "version": "1.0.0",
+  "description": "Personal GitHub Pages site",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed86-star/ahmed86-star.github.io.git"
+  },
+  "keywords": [
+    "github-pages",
+    "jekyll"
+  ],
+  "author": "ahmed86-star",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmed86-star/ahmed86-star.github.io/issues"
+  },
+  "homepage": "https://github.com/ahmed86-star/ahmed86-star.github.io#readme"
+} 
