@@ -26,6 +26,9 @@ end
 # Required for serving
 gem "faraday-retry"
 
+# Required for testing
+gem "html-proofer", "~> 5.0"
+
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
   gem "tzinfo-data"
