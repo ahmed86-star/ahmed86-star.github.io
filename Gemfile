@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-source "https://gems.ruby-china.com"
+source "https://rubygems.org"
 
 gem "jekyll", "4.3.4"
 
@@ -13,6 +13,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
   gem "jekyll-feed"
+  gem "jekyll-remote-theme"
 end
 
 gem "html-proofer", "~> 5.0", group: :test
