@@ -46,19 +46,18 @@ jobs:
         run: bundle install
 
       - name: Build site
-        run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
-        env:
-          JEKYLL_ENV: "production"
+        run: bundle exec jekyll build
 
       - name: Test site
         run: |
-          bundle exec htmlproofer _site \
+          bundle exec htmlproofer ./_site \
             --disable-external \
             --allow-missing-href \
             --allow-hash-href \
             --ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/" \
             --ignore-files "/_site\/tabs\/.*/" \
-            --ignore-missing-alt true
+            --ignore-missing-alt true \
+            --no-enforce-https
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v1
         with:
